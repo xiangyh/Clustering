@@ -1,6 +1,6 @@
 # Spectral Clustering
 
-## SC for 
+## SC for multi circle
 
 <p align="center">
 <img src="https://cloud.githubusercontent.com/assets/15187579/19378049/628d7ee6-919f-11e6-80b2-cd5cdfd4dad9.png" />
