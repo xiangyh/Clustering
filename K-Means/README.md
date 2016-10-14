@@ -1,6 +1,9 @@
 
-## k-means
+# K-Means
 
 <p align="center">
-<img src="https://cloud.githubusercontent.com/assets/15187579/19378861/cd68ffe8-91a3-11e6-9023-6c7a1ebd9b4b.png" />
+<img width="600" src="https://cloud.githubusercontent.com/assets/15187579/19379093/333e941c-91a5-11e6-92e1-3be9761b8f66.png"/>
 </p>
+
+
+
