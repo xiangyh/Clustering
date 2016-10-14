@@ -110,6 +110,5 @@ if __name__ == "__main__":
 
     plt.tight_layout()
     plt.suptitle(u'the influence of distribution on KMeans', fontsize=18)
-    # https://github.com/matplotlib/matplotlib/issues/829
     plt.subplots_adjust(top=0.92)
     plt.show()
